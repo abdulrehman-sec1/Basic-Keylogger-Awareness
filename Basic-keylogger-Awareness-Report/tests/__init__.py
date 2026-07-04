@@ -1,0 +1,1 @@
+# Marks the tests directory as a test suite package module collection.
